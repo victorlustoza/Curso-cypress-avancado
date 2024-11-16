@@ -1,23 +1,23 @@
-# Testes Automatizados com Cypress - Avançado
+# Automated Testing with Cypress - Advanced
 
-👋 Seja bem vindo(a)!
+👋 Welcome!
 
-É com muita alegria que compartilho com vocês, um pouco do que aprendi neste curso. ❤️
+It's with great joy that I share with you some of my learning in this course. ❤️
 
-## O que aprendi
+## What I learned
 
-- Como criar testes 100% _flakiness-free_
-- Como interagir com a aplicação o mais próximo de como um usuário real faria
-  - Como esperar por um elemento estar visível antes de interagir com ele
-  - Como simular o uso do teclado em vez de clique em botão em funcionalidades de busca
-  - Como esperar por requisições HTTP antes de seguir em frente com os testes
-- Como organizar diferentes testes em seus específicos contextos
-- Como ler o `localStorage` do navegador
-- Como tornar seletores de elementos mais específicos
-- Como simplificar comandos repetitivos
-- Como interceptar e mockar uma API externa para testar o frontend independente do backend
-- Como simular erros no servidor e na rede
-- Como simular lentidão na chamada à uma API
-- Como modificar o relatório de testes padrão para um que combine com o seu estilo 😉
+- How to create 100% _flakiness-free_ tests
+- How to interact with the application as close to how a real user would
+  - How to wait for an element to be visible before interacting with it
+  - How to simulate using the keyboard instead of clicking a button in search features
+  - How to wait for HTTP requests before moving forward with testing
+- How to organize different tests in their specific contexts
+- How to read browser `localStorage`
+- How to make element selectors more specific
+- How to simplify repetitive commands
+- How to intercept and mock an external API to test the frontend independent of the backend
+- How to simulate server and network errors
+- How to simulate slowness when calling an API
+- How to modify the default test report to one that suits your style 😉
 
-Agradecimentos a [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Thanks to [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
